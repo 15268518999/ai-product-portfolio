@@ -10,7 +10,9 @@
 
 ## FinCheck｜公告批量研究与证据核验
 
-[![FinCheck 公告比较矩阵：同类字段、来源页码与缺口并列展示](fincheck/images/02-comparison-matrix.jpg)](fincheck/images/02-comparison-matrix.jpg)
+[![FinCheck 1.18.0 专业深色外观下的公告比较矩阵，显示字段、来源页码和待复核状态](fincheck/images/02-comparison-matrix.jpg)](fincheck/images/02-comparison-matrix.jpg)
+
+新版专业外观用灰阶组织表格，蓝色标记当前视图和主要操作，琥珀色提示待复核项。
 
 **解决的问题：** 买方研究员需要将大量公告与附件转化为可回查的结论，材料整理、数字核对和交付之间需要连续的处理流程。
 
